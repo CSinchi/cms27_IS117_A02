@@ -18,12 +18,20 @@ Setup GitHub
 
 **Terms**
 
- - List item
- - L2
- - D3
- - D4
+- **Clone**: Copy of a repository stored in a local machine. Can work offline.
+- **Commit**: Captures state of a project, recording changes to a repository. 
+- **Fetch**: Receive updates from remote repository without merging with local branch.
+- **Git**: Version Control System that tracks changes in source code in software projects.
+- **GitHub**: Web-based platform based on Git. Facilitates code hosting, collaborations, and version control.
+- **Merge**: Combine changes from multiple branches into a single one.
+- **Merge Conflict**: When a merge can't proceed due to incompatible changes on parts of same files. Requires manual intervention.
+- **Push**: Uploads local repository changes to remote repository.
+- **Pull**: Fetches and merges changes from remote repository into local repository.
+- **Remote**: Repository hosted over the internet. Allows for collaboration with multiple users.
+- **Repository**: Storage where files and revision history are kept.
 
-**Refernces**
+**References**
 - [https://www.freecodecamp.org/news/guide-to-git-github-for-beginners-and-experienced-devs/](https://www.freecodecamp.org/news/guide-to-git-github-for-beginners-and-experienced-devs/)
 - [https://dev.to/abhay_yt_52a8e72b213be229/step-by-step-guide-to-installing-git-on-windows-macos-and-linux-5e19](https://dev.to/abhay_yt_52a8e72b213be229/step-by-step-guide-to-installing-git-on-windows-macos-and-linux-5e19)
 - [https://dev.to/warish/a-step-by-step-guide-to-cloning-a-github-repository-to-your-local-machine-4ngc](https://dev.to/warish/a-step-by-step-guide-to-cloning-a-github-repository-to-your-local-machine-4ngc)
+- [https://docs.github.com/en/get-started/learning-about-github/github-glossary](https://docs.github.com/en/get-started/learning-about-github/github-glossary)
